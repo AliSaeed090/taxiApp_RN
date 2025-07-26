@@ -1,0 +1,1 @@
+export const rootUrl = "https://whale-app-lk9m7.ondigitalocean.app";

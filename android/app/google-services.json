@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657377177256",
+    "project_id": "thetaxi-b012b",
+    "storage_bucket": "thetaxi-b012b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657377177256:android:a475d355b4c64f9f3e5c9d",
+        "android_client_info": {
+          "package_name": "com.RNtaxiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBh......"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
